@@ -71,4 +71,16 @@ Applied **Isolation Forest** for unsupervised anomaly detection to catch unknown
 
 ---
 
-## 📁 Project Structure
+## 📁 Files
+
+- `Untitled30.ipynb` — Full analysis notebook (EDA, feature engineering, SMOTE, model training, SHAP, business impact)
+- `Predictive_Maintenance_Report.docx` — Detailed technical report
+- `Predictive_Maintenance_Smart_Factory.pptx` — Presentation slides
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ousef2312/Industrial-IoT-Predictive-Maintenance.git
